@@ -16,6 +16,7 @@ const App = () => {
 
   useEffect(() => {
     getTodos();
+    //asdf
   }, []);
 
   const getTodos = async () => {
