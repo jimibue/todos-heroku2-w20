@@ -27,6 +27,7 @@ const App = () => {
       alert(err);
     }
   };
+  // delete function and test it it is working!
 
   const handleSubmit = (e) => {
     e.preventDefault();
